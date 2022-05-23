@@ -56,7 +56,7 @@ if(isset($_SESSION['rol'])&& isset($_SESSION['username'])){
 
 	<div class="login-box">
 		<div class="titulo">
-			<h4>Bienvenido al sistema de control de equipo de computo en sucursales By Rodolfo.</h4>
+			<h4>Bienvenido al sistema de control de equipo de computo en sucursales By Rodolfo69.</h4>
 			<img src="salinas.png" alt="100" width="100" >
 		</div>
 		<div class="login-text">
